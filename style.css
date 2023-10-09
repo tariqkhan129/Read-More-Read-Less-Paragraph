@@ -1,0 +1,20 @@
+#para {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 800px;
+    margin: auto;
+    text-align: justify;
+    align-items: center;
+
+}
+
+        #readMore {
+            display: none;
+        }
+
+
+        button{
+    padding: 12px;
+    border-radius: 20px;
+}
